@@ -17,12 +17,12 @@
 | *...to be continued soon...* ||   
 
 # 📚 Retraining / Qualification enhancement
-| Title (url) | Type | Platform / Organization | Duration | Year |
+| Title / url | Type | Platform / Organization | Duration | Year |
 | ----- | ---- | ----------------------- | -------- | ---- |
 | **[Data Scientist Professional Training Course](https://practicum.yandex.ru/data-scientist/?from=catalog)** | **Professional retraining** | **Yandex** | **400h** | **2022** |
 
 # 🏆 Competitions
-| Title (url) | Platform / Organization | Results |
+| Title / url | Platform / Organization | Results |
 | ----- | ----------------------- | ------- |
 | ITMO Hackaton | ITMO | Participant | 2022 |
 | [Junior ML Contest](https://ai.itmo.ru/junior_ml_contest) | AI Talent Hub | Winner | 2022 |
