@@ -4,14 +4,14 @@
 | ------------------- | ------ | ---------- | ------- | ---- |
 | **[Artificial Intelligence](https://abit.itmo.ru/program/master/ai)** | **Master's degree** | **ITMO** | **Institute of Applied Computer Science** | **2023-2025** |
 
-| Course | Category |
+| Courses | Skills |
 | ------ | -------- |
 | Deep Learning in Practice | `DL` `CV` `NLP` |    
 | Deep Learning and Computer Vision | `DL` `CV` |    
 | Workshop on Product Creation with Data | `DL` `CV` `NLP` `Programming` `Product Management` |    
 | [Practicum on Developing ML Services in Python](https://github.com/Mikhail-Repkin/malware-classification-service) | `ML` `FastApi` `Programming` `MLOps` `sqlalchemy` `RQ` `streamlit` |    
 | [Project Seminar](https://huggingface.co/MikhailRepkin/news_classifier) | `DL` `NLP` `Programming` `MLOps` |    
-| [DevOps Practices and Tools](https://gitlab.com/devops3701442/dev-ops-labs-3) | `ML` `MLOps` `Airflow` `Spark` `CI/CD` |  
+| [DevOps Practices and Tools](https://gitlab.com/devops3701442/dev-ops-labs-3) | `ML` `MLOps` `Airflow` `Spark` `CI/CD` `Docker` |  
 | Working in a Remote Team | `Soft Skills` |
 | Foreign Language (English) | `Soft Skills` |   
 | *...to be continued soon...* ||   
