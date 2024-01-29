@@ -55,7 +55,7 @@
 ### Data Engineering
 | Title / url | Platform / Organization | Duration | Status |
 | ----- | ----------------------- | -------- | ------ |
-| [Database design](https://stepik.org/course/51562/info) | Stepik / Shultais Education | 2h | Completed |
+| [Database design](https://stepik.org/course/51675/info) | Stepik / Shultais Education | 2h | Completed |
 | [SQL Basics](https://stepik.org/course/51562/info) | Stepik / Shultais Education | 32h | Completed |
 
 ### Data analytics
